@@ -16,6 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrajkashyap09&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamrajkashyap09" /> </p>
 
 - 🌱 I’m currently learning **Problem Solving through Java,Figma.**
+-  :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
 - 👨‍💻 All of my projects are available at [https://shubhamrajkashyap0.wixsite.com/motif-brain/portfolio](https://shubhamrajkashyap0.wixsite.com/motif-brain/portfolio)
 
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **shubhamrajkashyap09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GjnyfflY1_JEK1R3kPHSeWWpb25GoVcg/view?usp=sharing](https://drive.google.com/file/d/1GjnyfflY1_JEK1R3kPHSeWWpb25GoVcg/view?usp=sharing)
+- 📄 Know about `My experiences` [`[My Resume]`](https://drive.google.com/file/d/1m8NnZDUpnopoxA2Q9xB1N9yJCPsLCwdM/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny 😅**
 
