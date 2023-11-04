@@ -38,4 +38,4 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Shubhamrajkashyap09?theme=default&font=&extension=activity)  
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shubhamrajkashyap09&theme=cobalt2)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shubhamrajkashyap09&theme=light)
