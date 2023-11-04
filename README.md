@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrajkashyap09&" alt="shubhamrajkashyap09" /></p>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Shubhamrajkashyap09?theme=default&font=&extension=activity)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shubhamrajkashyap09)
