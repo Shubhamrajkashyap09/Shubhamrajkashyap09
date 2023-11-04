@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamrajkashyap09&show_icons=true&locale=en" alt="shubhamrajkashyap09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrajkashyap09&" alt="shubhamrajkashyap09" /></p>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Shubhamrajkashyap09?theme=default&font=&extension=activity)
