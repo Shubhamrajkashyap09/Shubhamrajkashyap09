@@ -18,11 +18,11 @@
 - 🌱 I’m currently learning **Problem Solving through Java,Figma.**
 -  :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
-- 👨‍💻 All of my projects are available at [https://shubhamrajkashyap0.wixsite.com/motif-brain/portfolio](https://shubhamrajkashyap0.wixsite.com/motif-brain/portfolio)
+- 👨‍💻 All of my projects are available at [`[Portfolio]`](https://shubhamrajkashyap0.wixsite.com/motif-brain/portfolio)
 
-- 📝 I regularly write articles on [https://shubhamrajkashyap0.wixsite.com/motif-brain/blog](https://shubhamrajkashyap0.wixsite.com/motif-brain/blog)
+- 📝 I regularly write articles on [`[Blog]`](https://shubhamrajkashyap0.wixsite.com/motif-brain/blog)
 
-- 📫 How to reach me **shubhamrajkashyap09@gmail.com**
+- 📫 How to `reach me` **shubhamrajkashyap09@gmail.com**
 
 - 📄 Know about `My experiences` [`[My Resume]`](https://drive.google.com/file/d/1m8NnZDUpnopoxA2Q9xB1N9yJCPsLCwdM/view?usp=sharing)
 
