@@ -20,7 +20,7 @@
 <h1 align="center">Hi, I'm Shubham Raj Kashyap  <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+EveryBody%2C;I'm+passionate+about+coding;Love+exploring+new+technologies..&hearts;++;Computer+Science+and+Technology+Student,;Newbie,;Active+Learner;Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%B4+Sleep+%7C+%F0%9F%8D%BD%EF%B8%8F+Eat+%7C+%F0%9F%92%BB+Code" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sp9u7dw798yuohcfunu8npwjs1c9axeiyq6cczcx&rid=giphy.gif&ct=g">
